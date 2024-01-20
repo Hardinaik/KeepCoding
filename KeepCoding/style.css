@@ -1,0 +1,58 @@
+.navigation{
+    background-color:#75E6DA;
+    font-size:25px;
+    font-weight:400;
+}
+.homepage{
+    margin-top:250px; 
+    margin-left:100px;
+    display:flex;
+    justify-content: space-around;
+}
+#heading{
+    font-size:45px;
+    font-weight:500;
+}
+.auto-type{
+    color:teal;
+}
+.coursebox{
+    margin-top: 100px;
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+  }
+  .items{
+    height:21em;
+    width:20em;
+    border:3px solid cadetblue;
+    margin-top: 20px;
+  }
+  .items img{
+    height:10em;
+    width:100%;
+  }
+  .formdiv{
+    text-align:center;
+    margin:200px auto;
+    height:350px;
+    width:300px;
+    border:2px solid #05445E;
+    border-radius:10px;
+    background-color: rgb(212, 239, 243);
+    box-shadow:12px 12px 12px 12px  rgb(195, 227, 227);
+  }
+  .inputitems{
+    margin:10px;
+    border:none;
+    border-radius: 7px;
+  }
+  .lgbtn{
+    height:40px;
+    width:80px;
+    background-color: #0c83ae;
+    color:white
+  }
+
